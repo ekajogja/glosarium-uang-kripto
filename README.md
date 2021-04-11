@@ -18,16 +18,45 @@
 - [Address](#Address)
 - [Airdrop](#Airdrop)
 - [Algorithm](#Algorithm)
-- [All-Time-High (ATH)](#All-Time-High-(ATH))
-- [All-Time-Low (ATL)](#All-Time-Low-(ATL))
+- [All-Time-High (ATH)](#All-Time-High)
+- [All-Time-Low (ATL)](#All-Time-Low)
 - [Altcoin](#Altcoin)
 - [Anarcho-Capitalism](#Anarcho-Capitalism)
 - [Anti-Fragile](#Anti-Fragile)
-- [Anti-Money Laundering (AML)](#Anti-Money-Laundering-(AML))
+- [Anti-Money Laundering (AML)](#Anti-Money-Laundering)
 - [Arbitrage](#Arbitrage)
 - [Ashdraked](#Ashdraked)
 - [Ask Price](#Ask-Price)
 - [Astroturfing](#Astroturfing)
+- [Atomic Swap](Atomic-Swap)
+- [Attestation Ledger](Attestation-Ledger)
+- [Automated Market Maker (AMM)](Automated-Market-Maker)
+- [Bag](#Bag)
+- [Bagholder](#Bagholder)
+- [Bear](#Bear)
+- [Bear Trap](#Bear-Trap)
+- [BitLicense](#BitLicense)
+- [Bitcoin ATM (BTM)](#Bitcoin-ATM)
+- [Bitcoin Improvement Proposal (BIP)](#Bitcoin-Improvement-Proposal)
+- [Bits](#Bits)
+- [Block](#Block)
+- [Block Explorer](#Block-Explorer)
+- [Block Height](#Block-Height)
+- [Block Reward](#Block-Reward)
+- [Blockchain](#Blockchain)
+- [Bollinger Band](#Bollinger-Band)
+- [Bonding Curve](#Bonding-Curve)
+- [Bots](#Bots)
+- [Brute Force Attack (BFA)](#Brute-Force-Attack)
+- [Bubble](#Bubble)
+- [Bug Bounty](#Bug-Bounty)
+- [Bull](#Bull)
+- [Bull Trap](#Bull-Trap)
+- [Burned](#Burned)
+- [Buy The Dip (BTD)](#Buy-The-Dip)
+- [Buy Wall](#Buy-Wall)
+- [Byzantine Fault Tolerant (BFT)](#Byzantine-Fault-Tolerant)
+- [Byzantine Generals' Problem](#Byzantine-Generals'-Problem)
 
 ## 1hr
 Merujuk pada data 1 (satu) jam terakhir.
@@ -88,6 +117,93 @@ Harga minimum yang ditawarkan penjual untuk sebuah aset. Juga sering disebut *of
 
 ## Astroturfing
 Praktik menyamarkan kampanye pemasaran atau pesan bersponsor sebagai opini pribadi dari warga komunitas.
+
+## Atomic Swap
+Transfer uang kripto dari satu pihak ke pihak lain tanpa melalui bursa atau perantara lainnya.
+
+## Attestation Ledger
+Catatan keuangan yang dirancang sebagai bukti transaksi individual. Berfungsi sebagai bukti terjadinya sebuah transaksi finansial, atau membuktikan otentisitas transaksi atau produk.
+
+## Automated Market Maker (AMM)
+Sistem yang menyajikan likuiditas suatu bursa melalui trading otomatis.
+
+## Bag
+Istilah slang yang merujuk pada sejumlah besar suatu mata uang kripto. Kadang juga merujuk pada portfolio uang kripto seseorang.
+
+## Bagholder
+Investor yang tetap menyimpan (*hold*) sejumlah besar mata uang kripto tertentu tanpa memedulikan performanya.
+
+## Bear
+Pihak yang meyakini bahwa harga pada pasar tertentu akan turun dalam jangka waktu tertentu. Pihak yang seperti ini bisa disebut "*bearish*".
+
+## Bear Trap
+Upaya manipulasi harga mata uang kripto tertentu melalui aksi terkoordinir oleh sekelompok trader.
+
+## BitLicense
+Lisensi bisnis yang mengizinkan aktivitas virtual uang kripto, diterbitkan oleh Departemen Layanan Finansial New York.
+
+## Bitcoin ATM (BTM)
+Mesin kasir otomatis (ATM) yang memfasilitasi jual-beli Bitcoin.
+
+## Bitcoin Improvement Proposal (BIP)
+Format standar dokumen pengajuan perubahan atas Bitcoin.
+
+## Bits
+Unit yang kerap dipakai, atau subdivisi, dari satu Bitcoin.
+
+## Block
+File yang memuat informasi mengenai transaksi yang terjadi dalam suatu periode. Block adalah bagian vital dari sebuah blockchain.
+
+## Block Explorer
+Aplikasi yang memampukan penggunanya untuk melihat rincian blok-blok dalam sebuah blockchain. Disebut juga "blockchain browser".
+
+## Block Height
+Nilai yang menunjukkan jumlah blok-blok yang mendahului sebuah blok di dalam blockchain.
+
+## Block Reward
+Koin-koin yang dihadiahkan pada seseorang atau sekelompok penambang setelah mereka menyelesaikan tantangan kriptografik yang dibutuhkan untuk membuat satu blok baru dalam sebuah blockchain.
+
+## Blockchain
+Sistem ledger terdistribusi. Serangkaian sekuens blok, atau unit-unit informasi digital, yang disimpan secara konsekutif dalam sebuah basis data publik. Ini adalah dasar dari uang kripto.
+
+## Bollinger Band
+Perkakas yang dikembangkan oleh Bollinger untuk mempermudah kerja pengenalan pola sistemik atas harga.
+
+## Bonding Curve
+Kurva matematis yang menunjukkan hubungan antara harga dan penawaran aset tertentu.
+
+## Bots
+Peranti lunak otomatis untuk menjalankan kerja tertentu semisal trading uang kripto.
+
+## Brute Force Attack (BFA)
+Upaya untuk membongkar password atau key dengan metode *trial and error* secara otomatis.
+
+## Bubble
+Saat suatu aset diperdagangkan dengan harga yang jauh lebih mahal dari nilai intrinsiknya.
+
+## Bug Bounty
+Hadiah yang ditawarkan bagi penemu titik-titik rawan dalam suatu peranti lunak.
+
+## Bull
+Pihak yang optimis dan yakin bahwa harga pada pasar tertentu akan naik. Pihak seperti ini bisa disebut "*bullish*".
+
+## Bull Trap
+Terjadi ketika sebuah aset yang harganya terus menerus turun tiba-tiba nampak berbalik dan naik untuk beberapa saat sebelum kemudian kembali turun lagi.
+
+## Burned
+Token atau koin uang kripto dianggap terbakar (*burned*) saat disingkirkan secara sengaja dan permanen dari peredaran.
+
+## Buy The Dip (BTD)
+Seruan antusias dari para pendukung sebuah mata uang kripto kepada publik untuk membelinya saat harganya berada dalam titik rendah.
+
+## Buy Wall
+Saat order pembelian dengan limit yang sangat besar muncul dalam sebuah bursa.
+
+## Byzantine Fault Tolerant (BFT)
+Properti dari sebuah sistem komputer yang memampukannya mencapai konsensus meskipun beberapa komponennya mengalamai kegagalan.
+
+## Byzantine Generals' Problem
+Situasi saat komunikasi yang membutuhkan konsensus atas suatu strategi dari seluruh anggota kelompok tidak bisa dipercaya atau tidak bisa diverifikasi.
 
 ___
 

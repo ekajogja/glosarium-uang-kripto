@@ -1,6 +1,10 @@
-# Glosarium Uang Kripto
+<center>
+<h1>Glosarium Uang Kripto</h1>
 
-Daftar istilah uang kripto.
+<p>Daftar istilah uang kripto.</p>
+
+<a title="voytek pavlik, CC0, via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:Cryptocurrency_logos.jpg"><img width="512" alt="Cryptocurrency logos" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Cryptocurrency_logos.jpg/512px-Cryptocurrency_logos.jpg"></a>
+</center>
 
 ## Daftar Isi
 
